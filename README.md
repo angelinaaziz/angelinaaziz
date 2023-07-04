@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **angelinaaziz/angelinaaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on -> [auralyze.ai](https://www.auralyze.ai)
+🔍 Learn more about me over at -> [angelina.dev](https://www.angelin.dev/about)
+🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinaaziz)](https://github.com/angelinaaziz/github-readme-stats)
