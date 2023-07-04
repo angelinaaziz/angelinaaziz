@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) <br>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=angelinaaziz)
