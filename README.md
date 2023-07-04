@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations) <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinaaziz)](https://github.com/angelinaaziz/github-readme-stats)
