@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on -> [auralyze.ai](https://www.auralyze.ai)
+🔭 I’m currently working on -> [auralyze.ai](https://www.auralyze.ai) <br>
 
-🔍 Learn more about me over at -> [angelina.dev](https://www.angelin.dev/about)
+🔍 Learn more about me over at -> [angelina.dev](https://www.angelin.dev/about) <br>
 
-🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations)
+🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations) <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinaaziz)](https://github.com/angelinaaziz/github-readme-stats)
