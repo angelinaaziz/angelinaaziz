@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on -> [auralyze.ai](https://www.auralyze.ai) <br>
 
-🔍 Learn more about me over at -> [angelina.dev](https://www.angelin.dev/about) <br>
+🔍 Learn more about me over at -> [angelina.dev](https://www.angelina.dev/about) <br>
 
 🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations) <br>
 
