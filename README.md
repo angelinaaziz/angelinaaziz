@@ -2,6 +2,7 @@
 
 <!--
 **angelinaaziz/angelinaaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Views](https://komarev.com/ghpvc/?username=angelinaaziz)
 
 Here are some ideas to get you started:
 
@@ -26,4 +27,3 @@ I've just started using GitHub properly <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://github.com/angelinaaziz)-->
 
-![GitHub Views](https://komarev.com/ghpvc/?username=angelinaaziz)
