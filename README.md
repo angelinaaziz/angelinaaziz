@@ -25,6 +25,5 @@ I've just started using GitHub properly for personal use <br>
 🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations) <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinaaziz)](https://github.com/angelinaaziz/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://github.com/angelinaaziz)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=angelinaaziz&theme=tokyonight-duo&hide_border=true)](https://github.com/angelinaaziz)
 
