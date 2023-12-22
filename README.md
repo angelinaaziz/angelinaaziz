@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinaaziz)](https://github.com/angelinaaziz/github-readme-stats)
 - ⚡ Fun fact: ...
 -->
-I've just started using GitHub properly <br>
+I've just started using GitHub properly for personal use <br>
 
 🔭 I’m currently working on -> [auralyze.ai](https://www.auralyze.ai) <br>
 
