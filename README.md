@@ -23,7 +23,7 @@ I've just started using GitHub properly for personal use <br>
 
 🔭 I’m currently working on -> [auralyze.ai](https://www.auralyze.ai) <br>
 
-🔍 Learn more about me over at -> [angelina.dev](https://www.angelina.dev/about) <br>
+🔍 Learn more about me over at -> [angelina.dev](https://www.angelina.dev) <br>
 
 🌱 I’m currently learning more about DevOps (please send me any book or resource recommendations) <br>
 
